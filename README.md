@@ -1,1 +1,1 @@
-"# jest" 
+# jest ve typescript starter 
